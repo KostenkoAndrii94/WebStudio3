@@ -42,6 +42,10 @@ html{
     /* outline: 2px solid tomato; */
 }
 
+.header{
+    border-bottom: 1px solid #ececec;
+}
+
 body {
     background-color: var(--primary-bg-color);
     color: var(--primary-text-color);
